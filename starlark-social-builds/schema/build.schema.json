@@ -2,7 +2,7 @@
     "$schema": "http://json-schema.org/draft-07/schema#",
     "$id": "http://r351574nc3.github.io/mind-centrifuge/skylark-social-builds/event.schema.json",
     "title": "Build",
-    "description": "Build Event",
+    "description": "Build",
     "type": "object",
     "properties": {
       "productId": {
